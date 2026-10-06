@@ -12,7 +12,7 @@ The purpose of this project was to practice analyzing a cybersecurity incident a
 
 ## My Role
 
-**Cybersecurity Analyst Graduate**
+**Cybersecurity Analyst (Entery level)*
 
 For this simulated project, I analyzed the incident from a cybersecurity analyst perspective and documented the potential impact, indicators of compromise, affected systems, and recommended security measures.
 
